@@ -23,7 +23,7 @@ The project is a combination of **Markdown** and **code cells**, demonstrating f
 > ✅ = Screenshot available
 > ## 🖼️ Screenshot Preview
 
-![Screenshot of Notebook](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshot.png)
+![Screenshot of Notebook](https://github.com/Anchalshukla145/Python-tools-peer-grade-Assignment/blob/main/pic/Screenshot%202025-09-24%20153931.png)
 
 ## 📌 Objectives
 
